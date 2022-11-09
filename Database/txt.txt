@@ -1,0 +1,4 @@
+En esta sección se van a guardar todos los scripts relacionados a la aplicacion web Maracuyá Store
+==========================================================
+Nombre BD: maracuya_store
+==========================================================

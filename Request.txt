@@ -1,0 +1,5 @@
+Considerar agregar las siguientes acciones:
+
+1. Lograr que los artículos en el carrito de compra se borren pasados 30 días después de que hayan agregado los productos
+
+2. Hacer que los visitantes se loguen para poder agregar productos al carrito de compras

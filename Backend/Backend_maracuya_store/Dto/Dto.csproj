@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dto_UsuariosAgregar.cs" />
+    <Compile Include="Dto_UsuariosModificar.cs" />
+    <Compile Include="Dto_UsuariosListar.cs" />
+    <Compile Include="Identificador.cs" />
+    <Compile Include="Mensaje_Retorno.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Backend_maracuya_store",
+    "\\Backend\\Backend_maracuya_store\\Backend_maracuya_store",
+    "\\Backend\\Backend_maracuya_store\\Backend_maracuya_store\\Controllers",
+    "\\Backend\\Backend_maracuya_store\\Backend_maracuya_store\\Properties",
+    "\\Backend\\Backend_maracuya_store\\Bussiness",
+    "\\Backend\\Backend_maracuya_store\\Dal",
+    "\\Backend\\Backend_maracuya_store\\Dto"
+  ],
+  "SelectedNode": "\\Backend\\Backend_maracuya_store\\Backend_maracuya_store\\Controllers\\Usuarios_controller.cs",
+  "PreviewInSolutionExplorer": false
+}

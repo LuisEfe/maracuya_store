@@ -1,2 +1,8 @@
 
 .vs/maracuya_store/v16/.suo
+*.sqlite
+*.sqlite
+*.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/VSWorkspaceState.json

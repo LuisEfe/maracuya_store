@@ -50,11 +50,5 @@ namespace Dal
         {
             return SingleQuery<Dto_UsuariosModificar, dynamic>("[dbo].[SP_ActualizarUsuarios]", actualizaUsuarios);
         }
-
-
-
-
-
-
     }
 }
